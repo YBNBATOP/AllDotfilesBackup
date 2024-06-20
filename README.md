@@ -1,4 +1,7 @@
-# This is a repo maintained with **stow** utility
+
+# FYI
+
+This is a repo maintained with **stow** utility
 
 # Tutorial
 
