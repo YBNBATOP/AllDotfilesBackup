@@ -1,0 +1,4 @@
+import = ["~/.config/alacritty/dracula.toml"]
+
+[font]
+normal = { family = "CaskaydiaCove Nerd Font", style = "Regular" }
