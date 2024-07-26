@@ -39,3 +39,4 @@ alias commit='git commit -m'
 alias pull='git pull'
 alias push='git push'
 alias checkout='git checkout'
+. "$HOME/.cargo/env"
